@@ -18,7 +18,7 @@
 * @param string
 * @return string
 *
-* @author gyani
+* @author gyaan
 *
 * @examples
 * {assign var='year' value=4}
